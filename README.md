@@ -7,4 +7,8 @@ LeetCode solutions automatically synced via LeetHub
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Database
+|  |
+| ------- |
+| [3421-find-students-who-improved](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/3421-find-students-who-improved) |
 <!---LeetCode Topics End-->
