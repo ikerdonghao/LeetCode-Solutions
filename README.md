@@ -11,4 +11,5 @@ LeetCode solutions automatically synced via LeetHub
 |  |
 | ------- |
 | [3421-find-students-who-improved](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/3421-find-students-who-improved) |
+| [3475-dna-pattern-recognition](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/3475-dna-pattern-recognition) |
 <!---LeetCode Topics End-->
