@@ -11,6 +11,7 @@ LeetCode solutions automatically synced via LeetHub
 ## Database
 |  |
 | ------- |
+| [0185-department-top-three-salaries](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0185-department-top-three-salaries) |
 | [3421-find-students-who-improved](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/3421-find-students-who-improved) |
 | [3475-dna-pattern-recognition](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/3475-dna-pattern-recognition) |
 ## Math
