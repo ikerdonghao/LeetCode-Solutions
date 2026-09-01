@@ -13,6 +13,7 @@ LeetCode solutions automatically synced via LeetHub
 | ------- |
 | [0177-nth-highest-salary](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0177-nth-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0185-department-top-three-salaries) |
+| [0196-delete-duplicate-emails](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0196-delete-duplicate-emails) |
 | [3421-find-students-who-improved](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/3421-find-students-who-improved) |
 | [3475-dna-pattern-recognition](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/3475-dna-pattern-recognition) |
 ## Math
