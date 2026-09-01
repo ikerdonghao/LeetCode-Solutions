@@ -34,4 +34,20 @@ LeetCode solutions automatically synced via LeetHub
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0001-two-sum) |
+## Tree
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 <!---LeetCode Topics End-->
