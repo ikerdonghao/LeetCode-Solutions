@@ -22,6 +22,7 @@ LeetCode solutions automatically synced via LeetHub
 | ------- |
 | [0002-add-two-numbers](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0598-range-addition-ii](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0598-range-addition-ii) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Recursion
 |  |
@@ -31,6 +32,7 @@ LeetCode solutions automatically synced via LeetHub
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0598-range-addition-ii](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0598-range-addition-ii) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Hash Table
 |  |
