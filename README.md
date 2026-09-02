@@ -34,12 +34,14 @@ LeetCode solutions automatically synced via LeetHub
 | [0001-two-sum](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0598-range-addition-ii](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0598-range-addition-ii) |
 | [1122-relative-sort-array](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [1122-relative-sort-array](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Tree
 |  |
 | ------- |
@@ -52,6 +54,7 @@ LeetCode solutions automatically synced via LeetHub
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Tree
 |  |
 | ------- |
@@ -60,6 +63,7 @@ LeetCode solutions automatically synced via LeetHub
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Counting Sort
 |  |
 | ------- |
@@ -72,4 +76,8 @@ LeetCode solutions automatically synced via LeetHub
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
+## Two Pointers
+|  |
+| ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 <!---LeetCode Topics End-->
