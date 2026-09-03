@@ -91,6 +91,7 @@ LeetCode solutions automatically synced via LeetHub
 ## String
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0953-verifying-an-alien-dictionary](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -99,4 +100,12 @@ LeetCode solutions automatically synced via LeetHub
 | ------- |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/3370-smallest-number-with-all-set-bits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
