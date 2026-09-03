@@ -1,15 +1,22 @@
 class Solution:
     def partition(self, s: str) -> List[List[str]]:
-        def isPalin(string:str):
+        res = []
+        
+        def isPalin(string: str) -> bool:
             return string == string[::-1]
-        if len(s) == 0:
-            return [[]]
 
-        ans = []
-        for i in range(len(s)):
-            left_part = s[0:i+1]
-            if isPalin(left_part):
-                right_part = self.partition(s[i+1:])
-                for p in right_part:
-                    ans.append([left_part] + p)
-        return ans
+        def backtrack(start_index: int, path: List[str]):
+           
+            if start_index == len(s):
+                res.append(path[:])  
+                return
+            
+            for i in range(start_index, len(s)):
+                left_part = s[start_index : i+1]
+                if isPalin(left_part):
+                    path.append(left_part)              
+                    backtrack(i + 1, path)            
+                    path.pop()                          
+
+        backtrack(0, [])
+        return res
