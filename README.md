@@ -23,6 +23,7 @@ LeetCode solutions automatically synced via LeetHub
 | [0002-add-two-numbers](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0598-range-addition-ii](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0598-range-addition-ii) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Recursion
 |  |
@@ -89,4 +90,8 @@ LeetCode solutions automatically synced via LeetHub
 | [0953-verifying-an-alien-dictionary](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3370-smallest-number-with-all-set-bits](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/3370-smallest-number-with-all-set-bits) |
 <!---LeetCode Topics End-->
