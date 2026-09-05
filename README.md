@@ -23,6 +23,7 @@ LeetCode solutions automatically synced via LeetHub
 | [0002-add-two-numbers](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0598-range-addition-ii](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0598-range-addition-ii) |
+| [1137-n-th-tribonacci-number](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Recursion
@@ -104,8 +105,13 @@ LeetCode solutions automatically synced via LeetHub
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [1137-n-th-tribonacci-number](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Backtracking
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
