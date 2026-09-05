@@ -99,6 +99,7 @@ LeetCode solutions automatically synced via LeetHub
 ## Bit Manipulation
 |  |
 | ------- |
+| [0868-binary-gap](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Dynamic Programming
