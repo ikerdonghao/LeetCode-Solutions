@@ -90,11 +90,13 @@ LeetCode solutions automatically synced via LeetHub
 ## Two Pointers
 |  |
 | ------- |
+| [0925-long-pressed-name](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0925-long-pressed-name) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## String
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0925-long-pressed-name](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0925-long-pressed-name) |
 | [0953-verifying-an-alien-dictionary](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
