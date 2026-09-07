@@ -98,6 +98,7 @@ LeetCode solutions automatically synced via LeetHub
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0925-long-pressed-name](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0925-long-pressed-name) |
 | [0953-verifying-an-alien-dictionary](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
@@ -113,6 +114,7 @@ LeetCode solutions automatically synced via LeetHub
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [1137-n-th-tribonacci-number](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Backtracking
