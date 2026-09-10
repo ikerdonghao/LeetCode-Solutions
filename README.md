@@ -58,10 +58,12 @@ LeetCode solutions automatically synced via LeetHub
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -71,6 +73,7 @@ LeetCode solutions automatically synced via LeetHub
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Sorting
 |  |
 | ------- |
