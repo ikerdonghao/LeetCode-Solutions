@@ -24,6 +24,7 @@ LeetCode solutions automatically synced via LeetHub
 | [0009-palindrome-number](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0598-range-addition-ii](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0598-range-addition-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Recursion
@@ -53,6 +54,7 @@ LeetCode solutions automatically synced via LeetHub
 | [1346-check-if-n-and-its-double-exist](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 ## Tree
 |  |
