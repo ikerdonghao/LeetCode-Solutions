@@ -110,6 +110,7 @@ LeetCode solutions automatically synced via LeetHub
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0541-reverse-string-ii](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
@@ -146,4 +147,12 @@ LeetCode solutions automatically synced via LeetHub
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0278-first-bad-version) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
