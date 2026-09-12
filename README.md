@@ -35,6 +35,7 @@ LeetCode solutions automatically synced via LeetHub
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0283-move-zeroes](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0598-range-addition-ii](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0598-range-addition-ii) |
 | [0953-verifying-an-alien-dictionary](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -98,6 +99,7 @@ LeetCode solutions automatically synced via LeetHub
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0541-reverse-string-ii](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0925-long-pressed-name](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0925-long-pressed-name) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
