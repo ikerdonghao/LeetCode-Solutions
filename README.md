@@ -40,6 +40,7 @@ LeetCode solutions automatically synced via LeetHub
 | [0001-two-sum](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0283-move-zeroes](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0598-range-addition-ii](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0598-range-addition-ii) |
+| [0748-shortest-completing-word](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0748-shortest-completing-word) |
 | [0953-verifying-an-alien-dictionary](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1122-relative-sort-array](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
@@ -54,6 +55,7 @@ LeetCode solutions automatically synced via LeetHub
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0748-shortest-completing-word](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0748-shortest-completing-word) |
 | [0953-verifying-an-alien-dictionary](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [1122-relative-sort-array](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -115,6 +117,7 @@ LeetCode solutions automatically synced via LeetHub
 | [0115-distinct-subsequences](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0541-reverse-string-ii](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
+| [0748-shortest-completing-word](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0748-shortest-completing-word) |
 | [0925-long-pressed-name](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0925-long-pressed-name) |
 | [0953-verifying-an-alien-dictionary](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
