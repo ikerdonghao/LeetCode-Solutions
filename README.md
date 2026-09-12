@@ -51,6 +51,7 @@ LeetCode solutions automatically synced via LeetHub
 | [2053-kth-distinct-string-in-an-array](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
@@ -65,6 +66,7 @@ LeetCode solutions automatically synced via LeetHub
 | [2053-kth-distinct-string-in-an-array](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2729-check-if-the-number-is-fascinating) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 ## Tree
 |  |
@@ -93,6 +95,7 @@ LeetCode solutions automatically synced via LeetHub
 | [1122-relative-sort-array](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Counting Sort
 |  |
 | ------- |
