@@ -47,6 +47,7 @@ LeetCode solutions automatically synced via LeetHub
 | [2053-kth-distinct-string-in-an-array](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Hash Table
@@ -155,4 +156,8 @@ LeetCode solutions automatically synced via LeetHub
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [3427-sum-of-variable-length-subarrays](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/3427-sum-of-variable-length-subarrays) |
 <!---LeetCode Topics End-->
