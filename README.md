@@ -73,6 +73,7 @@ LeetCode solutions automatically synced via LeetHub
 ## Binary Search Tree
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Tree
@@ -141,4 +142,8 @@ LeetCode solutions automatically synced via LeetHub
 |  |
 | ------- |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
