@@ -123,6 +123,7 @@ LeetCode solutions automatically synced via LeetHub
 | [0953-verifying-an-alien-dictionary](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Bit Manipulation
 |  |
@@ -164,4 +165,8 @@ LeetCode solutions automatically synced via LeetHub
 |  |
 | ------- |
 | [3427-sum-of-variable-length-subarrays](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/3427-sum-of-variable-length-subarrays) |
+## Sliding Window
+|  |
+| ------- |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
