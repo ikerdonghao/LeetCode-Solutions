@@ -46,6 +46,7 @@ LeetCode solutions automatically synced via LeetHub
 | [1018-binary-prefix-divisible-by-5](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1122-relative-sort-array](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -90,6 +91,7 @@ LeetCode solutions automatically synced via LeetHub
 | ------- |
 | [1122-relative-sort-array](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 ## Counting Sort
 |  |
 | ------- |
