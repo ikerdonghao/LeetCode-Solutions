@@ -66,6 +66,7 @@ LeetCode solutions automatically synced via LeetHub
 | [0953-verifying-an-alien-dictionary](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [1122-relative-sort-array](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2729-check-if-the-number-is-fascinating) |
@@ -133,6 +134,7 @@ LeetCode solutions automatically synced via LeetHub
 | [0748-shortest-completing-word](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0748-shortest-completing-word) |
 | [0925-long-pressed-name](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0925-long-pressed-name) |
 | [0953-verifying-an-alien-dictionary](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
