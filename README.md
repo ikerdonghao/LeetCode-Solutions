@@ -55,6 +55,7 @@ LeetCode solutions automatically synced via LeetHub
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
@@ -71,6 +72,7 @@ LeetCode solutions automatically synced via LeetHub
 | [2404-most-frequent-even-element](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 ## Tree
 |  |
