@@ -25,6 +25,7 @@ LeetCode solutions automatically synced via LeetHub
 | ------- |
 | [0002-add-two-numbers](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0486-predict-the-winner](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0598-range-addition-ii](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0598-range-addition-ii) |
 | [0836-rectangle-overlap](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1137-n-th-tribonacci-number](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -38,11 +39,13 @@ LeetCode solutions automatically synced via LeetHub
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0486-predict-the-winner](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0283-move-zeroes](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0486-predict-the-winner](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0598-range-addition-ii](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0598-range-addition-ii) |
 | [0748-shortest-completing-word](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0748-shortest-completing-word) |
 | [0953-verifying-an-alien-dictionary](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
@@ -152,6 +155,7 @@ LeetCode solutions automatically synced via LeetHub
 | ------- |
 | [0115-distinct-subsequences](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0486-predict-the-winner](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [1137-n-th-tribonacci-number](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Backtracking
 |  |
@@ -205,4 +209,16 @@ LeetCode solutions automatically synced via LeetHub
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1925-count-square-sum-triples) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
