@@ -55,6 +55,7 @@ LeetCode solutions automatically synced via LeetHub
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
+| [2540-minimum-common-value](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -73,6 +74,7 @@ LeetCode solutions automatically synced via LeetHub
 | [1624-largest-substring-between-two-equal-characters](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
+| [2540-minimum-common-value](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
@@ -95,6 +97,7 @@ LeetCode solutions automatically synced via LeetHub
 | [0278-first-bad-version](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2540-minimum-common-value](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 ## Binary Tree
 |  |
 | ------- |
@@ -130,6 +133,7 @@ LeetCode solutions automatically synced via LeetHub
 | [0925-long-pressed-name](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0925-long-pressed-name) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2540-minimum-common-value](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 ## String
 |  |
 | ------- |
