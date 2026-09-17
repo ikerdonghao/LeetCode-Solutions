@@ -129,6 +129,7 @@ LeetCode solutions automatically synced via LeetHub
 | [0541-reverse-string-ii](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0925-long-pressed-name](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0925-long-pressed-name) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String
 |  |
 | ------- |
@@ -143,6 +144,7 @@ LeetCode solutions automatically synced via LeetHub
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Bit Manipulation
 |  |
@@ -157,6 +159,7 @@ LeetCode solutions automatically synced via LeetHub
 | [0131-palindrome-partitioning](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0486-predict-the-winner](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [1137-n-th-tribonacci-number](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Backtracking
 |  |
 | ------- |
@@ -168,6 +171,7 @@ LeetCode solutions automatically synced via LeetHub
 ## Greedy
 |  |
 | ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 ## Interactive
 |  |
