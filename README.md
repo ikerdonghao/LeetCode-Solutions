@@ -55,6 +55,7 @@ LeetCode solutions automatically synced via LeetHub
 | [1122-relative-sort-array](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
@@ -114,6 +115,7 @@ LeetCode solutions automatically synced via LeetHub
 | [1122-relative-sort-array](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Counting Sort
 |  |
@@ -179,6 +181,7 @@ LeetCode solutions automatically synced via LeetHub
 ## Greedy
 |  |
 | ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 ## Interactive
