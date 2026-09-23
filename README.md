@@ -21,6 +21,7 @@ LeetCode solutions automatically synced via LeetHub
 | [3220-odd-and-even-transactions](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/3220-odd-and-even-transactions) |
 | [3421-find-students-who-improved](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/3421-find-students-who-improved) |
 | [3475-dna-pattern-recognition](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/3475-dna-pattern-recognition) |
+| [3601-find-drivers-with-improved-fuel-efficiency](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/3601-find-drivers-with-improved-fuel-efficiency) |
 ## Math
 |  |
 | ------- |
