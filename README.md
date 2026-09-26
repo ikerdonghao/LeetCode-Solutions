@@ -11,6 +11,7 @@ LeetCode solutions automatically synced via LeetHub
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0178-rank-scores) |
