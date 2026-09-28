@@ -21,6 +21,7 @@ LeetCode solutions automatically synced via LeetHub
 | [0262-trips-and-users](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/0262-trips-and-users) |
 | [1174-immediate-food-delivery-ii](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1174-immediate-food-delivery-ii) |
 | [1179-reformat-department-table](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1179-reformat-department-table) |
+| [1587-bank-account-summary-ii](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/1587-bank-account-summary-ii) |
 | [3220-odd-and-even-transactions](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/3220-odd-and-even-transactions) |
 | [3421-find-students-who-improved](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/3421-find-students-who-improved) |
 | [3475-dna-pattern-recognition](https://github.com/ikerdonghao/LeetCode-Solutions/tree/master/3475-dna-pattern-recognition) |
